@@ -28,8 +28,9 @@
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/geospasial_path_finding.git
-cd geospasial_path_finding
+git clone https://github.com/swatipanda271222/Geospatial-path_finding_using_Astar_algorithm_with_Haversine_Distance.git
+cd Geospatial-path_finding_using_Astar_algorithm_with_Haversine_Distance
+
 ## install required libraries:
 pip install folium
 
