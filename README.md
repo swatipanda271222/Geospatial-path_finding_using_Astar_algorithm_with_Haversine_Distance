@@ -1,4 +1,5 @@
-# Geospatial-path_finding_using_Astar_algorithm_with_Haversine_Distance# 🌐 Geospasial Path Finding with A* Algorithm
+# 🌐 Geospatial path finding using A* Algorithm with Haversine Distance 
+
 
 **Geospasial Path Finding** is a Python project that helps navigate the shortest route between major cities in Egypt using the A* (A-Star) algorithm combined with the Haversine formula for accurate real-world distance. The interface is built using Tkinter and provides a visual map output using Folium.
 
