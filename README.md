@@ -25,7 +25,7 @@
 
 ## ▶️ How to Run
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/yourusername/geospasial_path_finding.git
