@@ -21,5 +21,30 @@
 - Tkinter – for the graphical user interface
 - Folium – for interactive map rendering
 - Math & Heapq – for algorithm logic
+---
+
+## ▶️ How to Run
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/geospasial_path_finding.git
+cd geospasial_path_finding
+
+### 2️⃣ Install Dependencies
+
+Install the required library using:
+
+```bash
+pip install folium
+
+### 3️⃣ Launch the Application
+
+Run the GUI application:
+
+```bash
+python main.py
+
+
 
 
